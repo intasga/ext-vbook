@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "author": "Moleys",
+    "description": "🧐"
+  },
+  "data": [
+    {
+      "name": "botruyen",
+      "author": "intas",
+      "path": "https://raw.githubusercontent.com/intasga/ext-vbook/main/botruyen/plugin.zip",
+      "version": 2,
+      "source": "http://botruyen.vip",
+      "icon": "https://raw.githubusercontent.com/intasga/ext-vbook/main/botruyen/icon.png",
+      "description": "Đọc truyện trên trang http://botruyen.vip",
+      "type": "novel",
+      "locale": "vi-VN"
+    }
+  ]
+}
